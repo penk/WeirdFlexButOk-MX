@@ -4,7 +4,7 @@ A hot-swappable, ergo monoblock split keyboard with tenting.
 
 ![](images/underglow.jpg)
 
-Similar to the [Choc version](https://github.com/penk/WeirdFlexButOk), this keyboard features a `0.8mm` PCB with curved traces (kerf cuts) near the thumb clusters. These cuts allow the board to flex along the contour of the 3D printed case, forming a `20°` tilt and `10°` tent from a single PCB.
+Similar to the [Choc version](https://github.com/penk/WeirdFlexButOk), this keyboard features a `0.8mm` PCB with serpentine routing (kerf cuts) near the thumb clusters. These cuts allow the board to flex along the contour of the 3D printed case, forming a `20°` tilt and `10°` tent from a single PCB.
 
 ## Features
 
