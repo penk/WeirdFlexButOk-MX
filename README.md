@@ -49,15 +49,15 @@ The complete PCB design project is available in the [kicad/](kicad/) folder.
 
 ## 3D Printable Files
 
-Print the case using the provided [STL files](case/) for the 36-key (3x5) or 42-key (3x6) configurations respectively.
+Print the case using the provided [STL files](case/) for the 36-key (3x5) or 42-key (3x6) layout respectively.
 
  ![](images/3dprint.jpg)
 
-I like to start with translucent filament and add a mid-print filament change at around `12mm` height to let the LEDs shine through the bottom part. In Cura, this feature can be found under `Extensions` -> `Post Processing` -> `Modify G-Code` -> `Add Script` -> `Filament Change`.
+I like to start with translucent filament and add a mid-print filament change at around `10mm` height to let the LEDs shine through the bottom part. In Cura, this feature can be found under `Extensions` -> `Post Processing` -> `Modify G-Code` -> `Add a Script` -> `Filament Change`.
 
 ![](images/case.jpg)
 
-Expect some amount of support material. Tolerances must be finely tuned for the switches (`14.2x14.2mm`) to fit properly.
+Expect some amount of support material. Tolerances must be tuned for the switches (`14.2x14.2mm`) to fit properly.
 
 I find the following parameters work best for my print:
 
