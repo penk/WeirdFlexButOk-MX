@@ -4,7 +4,7 @@ A hot-swappable, ergo monoblock split keyboard with tenting.
 
 ![](images/underglow.jpg)
 
-Similar to the[Choc version](https://github.com/penk/WeirdFlexButOk), this keyboard features a `0.8mm` PCB with curved traces (kerf cuts) near the thumb clusters. These cuts enable the board to flex along the contour of the 3D printed case, providing a `20°` tilt and `10°` tent from a single PCB.
+Similar to the [Choc version](https://github.com/penk/WeirdFlexButOk), this keyboard features a `0.8mm` PCB with curved traces (kerf cuts) near the thumb clusters. These cuts allow the board to flex along the contour of the 3D printed case, forming a `20°` tilt and `10°` tent from a single PCB.
 
 ## Features
 
@@ -51,10 +51,11 @@ The complete PCB design project is available in the [kicad/](kicad/) folder.
 
 Print the case using the provided [STL files](case/) for the 36-key (3x5) or 42-key (3x6) configurations respectively.
 
+ ![](images/3dprint.jpg)
+
 I like to start with translucent filament and add a mid-print filament change at around `12mm` height to let the LEDs shine through the bottom part. In Cura, this feature can be found under `Extensions` -> `Post Processing` -> `Modify G-Code` -> `Add Script` -> `Filament Change`.
 
-| ![](images/3dprint.jpg) | ![](images/case.jpg) |
-|---|---|
+![](images/case.jpg)
 
 Expect some amount of support material. Tolerances must be finely tuned for the switches (`14.2x14.2mm`) to fit properly.
 
