@@ -10,7 +10,7 @@ Similar to the [Choc version](https://github.com/penk/WeirdFlexButOk), this keyb
 
 - Hot-swappable ergo monoblock split in MX spacing
 - Built-in tenting (10°) and tilting (20°) from a single FR-4 PCB
-- Breakable pinky column, for 36 or 42-key layouts 
+- Breakable pinky columns, for 36 or 42-key layouts 
 - Optional RGB underglow LEDs
 
 ![](images/keyboard.jpg)
